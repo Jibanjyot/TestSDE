@@ -1,7 +1,7 @@
 # SDE TEST Script
 
 This is the sde test script
-
+### First go to the root of the project
 # Setup
 
 ## 1. Create a Virtual Environment
@@ -33,7 +33,7 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-## 6. Run the Script
+## 4. Run the Script
 ```bash
 python main.py
 ```
