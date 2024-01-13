@@ -1,6 +1,6 @@
 # SDE TEST Script
 
-This is the sde test script
+This is the sde test script. The listings.csv file is there in the root directory. Before running the script please delete it.
 ### First go to the root of the project
 # Setup
 
